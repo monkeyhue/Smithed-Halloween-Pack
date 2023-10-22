@@ -1,0 +1,44 @@
+name: Build Nightly Libraries
+
+on: 
+  push:
+    branches:
+      - main
+  
+  workflow_dispatch:
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    
+    #----------------------------------------------
+    #       check-out repo and set-up python
+    #----------------------------------------------
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    #----------------------------------------------
+    # install dependencies if cache does not exist
+    #----------------------------------------------
+    - name: Install dependencies
+      run: pip install bolt
+    
+    #----------------------------------------------
+    #          Build libraries via beet
+    #----------------------------------------------
+    - name: Build via beet
+      run: beet -s "data_pack.zipped = true" -s "resource_pack.zipped = true"
+
+    #----------------------------------------------
+    #           Upload artifacts to GH
+    #----------------------------------------------
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3.0.0
+      with:
+        name: packs
+        path: __dist__/

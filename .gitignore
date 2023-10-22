@@ -1,0 +1,4 @@
+__pycache__/
+__dist__/
+.venv/
+.beet_cache/
