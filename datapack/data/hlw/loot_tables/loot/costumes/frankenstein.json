@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/frankenstein_helmet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/frankenstein_chestplate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/frankenstein_leggings"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/frankenstein_boots"
+        }
+      ]
+    }
+  ]
+}

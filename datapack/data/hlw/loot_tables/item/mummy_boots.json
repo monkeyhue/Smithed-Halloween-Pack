@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"item.hlw.mummy.boots\",\"color\":\"yellow\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"translate\":\"item.modifiers.feet\",\"color\":\"gray\",\"italic\":false}','[{\"text\":\"+1 \",\"color\":\"blue\",\"italic\":false},{\"translate\":\"attribute.name.generic.armor\"}]','[{\"text\":\"\\\\ua000 \",\"font\":\"hlw:tooltip\",\"color\":\"white\",\"italic\":false},{\"translate\":\"hlw.name\",\"font\":\"minecraft:default\",\"color\":\"#FF9E3D\",\"italic\":true}]'],color:6532002},HideFlags:198,RepairCost:256,Unbreakable:1b,CustomModelData:6532102,hlw:{costume:\"hlw:mummy\"},AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;-149847682,-681491269,-1856512501,722826807],Slot:\"feet\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

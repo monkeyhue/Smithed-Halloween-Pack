@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532101}, "model": "hlw:item/frank_boots"},
+		{"predicate": {"custom_model_data": 6532102}, "model": "hlw:item/mummy_boots"},
+		{"predicate": {"custom_model_data": 6532103}, "model": "hlw:item/bee_boots"},
+		{"predicate": {"custom_model_data": 6532104}, "model": "hlw:item/sea_monster_boots"}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sea_monster_helmet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sea_monster_chestplate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sea_monster_leggings"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sea_monster_boots"
+        }
+      ]
+    }
+  ]
+}

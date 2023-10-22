@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_leggings",
+        "layer1": "item/leather_leggings_overlay"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532101}, "model": "hlw:item/frank_leggings"},
+		{"predicate": {"custom_model_data": 6532102}, "model": "hlw:item/mummy_leggings"},
+		{"predicate": {"custom_model_data": 6532103}, "model": "hlw:item/bee_leggings"},
+		{"predicate": {"custom_model_data": 6532104}, "model": "hlw:item/sea_monster_leggings"}
+	]
+}

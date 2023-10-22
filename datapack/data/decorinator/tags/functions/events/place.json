@@ -1,0 +1,10 @@
+{
+  "values": [
+    "hlw:decoration/example/place",
+    "hlw:decoration/gravestone/place",
+    "hlw:decoration/scary_jacko/place",
+    "hlw:decoration/silly_jacko/place",
+    "hlw:decoration/spooky_jacko/place",
+    "hlw:decoration/zombie_plushie/place"
+  ]
+}

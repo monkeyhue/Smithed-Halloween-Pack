@@ -12,6 +12,11 @@
 		
 		{"predicate": {"custom_model_data": 6532002, "damage": 0}, "model": "hlw:item/entity/kaboomer/idle"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.0125}, "model": "hlw:item/entity/kaboomer/walk"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.025}, "model": "hlw:item/entity/kaboomer/throw"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.0375}, "model": "hlw:item/entity/kaboomer/die"},
 		
-		{"predicate": {"custom_model_data": 6532003, "damage": 0}, "model": "hlw:item/entity/scarecrow/float"}, {"predicate": {"custom_model_data": 6532003, "damage": 0.0125}, "model": "hlw:item/entity/scarecrow/attack"}
+		{"predicate": {"custom_model_data": 6532003, "damage": 0}, "model": "hlw:item/entity/scarecrow/float"}, {"predicate": {"custom_model_data": 6532003, "damage": 0.0125}, "model": "hlw:item/entity/scarecrow/attack"},
+		
+		{"predicate": {"custom_model_data": 6532101}, "model": "hlw:item/frank_chestplate"},
+		{"predicate": {"custom_model_data": 6532102}, "model": "hlw:item/mummy_chestplate"},
+		{"predicate": {"custom_model_data": 6532103}, "model": "hlw:item/bee_chestplate"},
+		{"predicate": {"custom_model_data": 6532104}, "model": "hlw:item/sea_monster_chestplate"}
 	]
 }

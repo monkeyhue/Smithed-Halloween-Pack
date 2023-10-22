@@ -5,11 +5,33 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
+		  "weight": 3,
           "name": "hlw:item/witch_hat"
         },
         {
           "type": "minecraft:loot_table",
+		  "weight": 6,
           "name": "hlw:item/happy_mask"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 6,
+          "name": "hlw:loot/costumes/frankenstein"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 6,
+          "name": "hlw:loot/costumes/mummy"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 3,
+          "name": "hlw:loot/costumes/bee"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 1,
+          "name": "hlw:loot/costumes/sea_monster"
         }
       ]
     }

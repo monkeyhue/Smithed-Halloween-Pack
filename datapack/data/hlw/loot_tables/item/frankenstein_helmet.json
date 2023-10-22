@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"item.hlw.frank.helmet\",\"color\":\"yellow\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"translate\":\"item.modifiers.head\",\"color\":\"gray\",\"italic\":false}','[{\"text\":\"+1 \",\"color\":\"blue\",\"italic\":false},{\"translate\":\"attribute.name.generic.armor\"}]','[{\"text\":\"\\\\ua000 \",\"font\":\"hlw:tooltip\",\"color\":\"white\",\"italic\":false},{\"translate\":\"hlw.name\",\"font\":\"minecraft:default\",\"color\":\"#FF9E3D\",\"italic\":true}]']},HideFlags:134,RepairCost:256,Unbreakable:1b,CustomModelData:6532005,hlw:{isBlock:0b},AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;-264240356,-1514520075,-1311580316,-1034528731],Slot:\"head\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

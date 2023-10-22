@@ -1,0 +1,2 @@
+data merge entity @s {Tags: ["smithed.entity", "smithed.strict", "decorinator.decoration", "hlw.spooky_jacko"], item: {id: "minecraft:cobblestone", Count: 1b, tag: {CustomModelData: 6532004, decoration: {id: "hlw:spooky_jacko"}}}, transformation: {translation: [0.0f, 0.625f, 0.0f], left_rotation: [0.0f, 0.0f, 0.0f, 1.0f], right_rotation: [0.0f, 0.0f, 0.0f, 1.0f], scale: [1.0f, 1.0f, 1.0f]}}
+execute if data storage decorinator:api owner run function hlw:decoration/spooky_jacko/create/pickup

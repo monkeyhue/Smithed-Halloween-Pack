@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/bee_helmet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/bee_chestplate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/bee_leggings"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/bee_boots"
+        }
+      ]
+    }
+  ]
+}

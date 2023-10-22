@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/mummy_helmet"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/mummy_chestplate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/mummy_leggings"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/mummy_boots"
+        }
+      ]
+    }
+  ]
+}

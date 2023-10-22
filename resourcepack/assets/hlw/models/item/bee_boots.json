@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "hlw:item/bee_boots",
+		"layer1": "hlw:item/bee_boots"
+		}
+    }
+}

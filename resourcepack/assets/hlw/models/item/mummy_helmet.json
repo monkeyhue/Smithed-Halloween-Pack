@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "hlw:item/mummy_helmet",
+		"layer1": "hlw:item/mummy_helmet"
+		}
+    }
+}

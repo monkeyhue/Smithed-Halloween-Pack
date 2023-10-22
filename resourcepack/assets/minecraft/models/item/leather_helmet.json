@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532102}, "model": "hlw:item/mummy_helmet"},
+		{"predicate": {"custom_model_data": 6532103}, "model": "hlw:item/bee_helmet"},
+		{"predicate": {"custom_model_data": 6532104}, "model": "hlw:item/sea_monster_helmet"}
+	]
+}
