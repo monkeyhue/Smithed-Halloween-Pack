@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532001}, "model": "hlw:item/spooky_candy"},
+		{"predicate": {"custom_model_data": 6532002}, "model": "hlw:item/sweet_candy"},
+		{"predicate": {"custom_model_data": 6532003}, "model": "hlw:item/sour_candy"},
+		{"predicate": {"custom_model_data": 6532004}, "model": "hlw:item/bitter_candy"},
+		{"predicate": {"custom_model_data": 6532005}, "model": "hlw:item/lollipop_red"},
+		{"predicate": {"custom_model_data": 6532006}, "model": "hlw:item/lollipop_green"},
+		{"predicate": {"custom_model_data": 6532007}, "model": "hlw:item/candycorn"},
+		{"predicate": {"custom_model_data": 6532008}, "model": "hlw:item/gummy_worm"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532001}, "model": "hlw:item/goodie_bag"},
+		{"predicate": {"custom_model_data": 6532002}, "model": "hlw:item/gourdlord_bag"}
+	]
+}

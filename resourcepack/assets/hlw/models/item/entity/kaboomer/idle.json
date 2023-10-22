@@ -1,0 +1,6 @@
+{
+	"parent": "hlw:item/entity/kaboomer/256",
+	"textures": {
+		"0": "hlw:item/entity/kaboomer/idle"
+	}
+}

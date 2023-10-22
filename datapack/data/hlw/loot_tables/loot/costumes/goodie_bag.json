@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/witch_hat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/happy_mask"
+        }
+      ]
+    }
+  ]
+}

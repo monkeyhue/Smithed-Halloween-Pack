@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+	},
+	"overrides": [
+	
+		{"predicate": {"custom_model_data": 6532000, "damage": 0}, "model": "hlw:item/entity/gourdlord/intro_emerge"}, {"predicate": {"custom_model_data": 6532000, "damage": 0.0125}, "model": "hlw:item/entity/gourdlord/intro_roar"},
+		
+		{"predicate": {"custom_model_data": 6532001, "damage": 0}, "model": "hlw:item/entity/spook/float"}, {"predicate": {"custom_model_data": 6532001, "damage": 0.0125}, "model": "hlw:item/entity/spook/attack"}, {"predicate": {"custom_model_data": 6532001, "damage": 0.025}, "model": "hlw:item/entity/spook/hurt"}, {"predicate": {"custom_model_data": 6532001, "damage": 0.0375}, "model": "hlw:item/entity/spook/teleport_in"}, {"predicate": {"custom_model_data": 6532001, "damage": 0.05}, "model": "hlw:item/entity/spook/teleport_out"},
+		
+		{"predicate": {"custom_model_data": 6532002, "damage": 0}, "model": "hlw:item/entity/kaboomer/idle"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.0125}, "model": "hlw:item/entity/kaboomer/walk"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.025}, "model": "hlw:item/entity/kaboomer/throw"}, {"predicate": {"custom_model_data": 6532002, "damage": 0.0375}, "model": "hlw:item/entity/kaboomer/die"},
+		
+		{"predicate": {"custom_model_data": 6532003, "damage": 0}, "model": "hlw:item/entity/scarecrow/float"}, {"predicate": {"custom_model_data": 6532003, "damage": 0.0125}, "model": "hlw:item/entity/scarecrow/attack"}
+	]
+}

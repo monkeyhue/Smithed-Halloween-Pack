@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/structure_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532001}, "model": "hlw:item/witch_hat"},
+		{"predicate": {"custom_model_data": 6532002}, "model": "hlw:item/happy_mask"},
+		{"predicate": {"custom_model_data": 6532003}, "model": "hlw:item/blueprint"},
+		{"predicate": {"custom_model_data": 6532004}, "model": "hlw:item/rare_blueprint"}
+	]
+}

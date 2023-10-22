@@ -1,0 +1,6 @@
+{
+	"parent": "hlw:item/entity/scarecrow/256",
+	"textures": {
+		"0": "hlw:item/entity/scarecrow/attack"
+	}
+}

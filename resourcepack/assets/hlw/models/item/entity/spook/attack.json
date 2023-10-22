@@ -1,0 +1,6 @@
+{
+	"parent": "hlw:item/entity/spook/128",
+	"textures": {
+		"0": "hlw:item/entity/spook/attack"
+	}
+}

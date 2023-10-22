@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 2,
+          "name": "hlw:item/blueprint.gravestone"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 1,
+          "name": "hlw:item/blueprint.spooky_jacko"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 1,
+          "name": "hlw:item/blueprint.silly_jacko"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 1,
+          "name": "hlw:item/blueprint.scary_jacko"
+        }
+      ]
+    }
+  ]
+}

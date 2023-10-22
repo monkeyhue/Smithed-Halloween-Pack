@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cookie",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"item.hlw.lollipop_green\",\"color\":\"yellow\",\"italic\":false}',Lore:['[{\"text\":\"\\\\ua000 \",\"font\":\"hlw:tooltip\",\"color\":\"white\",\"italic\":false},{\"translate\":\"hlw.name\",\"font\":\"minecraft:default\",\"color\":\"#FF9E3D\",\"italic\":true}]']},CustomModelData:6532006,hlw:{candyId:6}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

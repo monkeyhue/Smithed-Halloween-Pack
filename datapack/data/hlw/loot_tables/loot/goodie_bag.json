@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/spooky_candy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sweet_candy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sour_candy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/bitter_candy"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sweet_lollipop"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/sour_lollipop"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/candy_corn"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "hlw:item/gummi_worm"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 40,
+          "name": "hlw:loot/costumes/goodie_bag"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 54,
+          "name": "hlw:loot/decorations/goodie_bag"
+        },
+        {
+          "type": "minecraft:loot_table",
+		  "weight": 6,
+          "name": "hlw:loot/decorations/goodie_bag_rare"
+        }
+      ]
+    }
+  ]
+}

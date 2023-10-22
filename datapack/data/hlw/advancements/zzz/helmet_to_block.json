@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "equip": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
+              "items": [
+                "minecraft:netherite_helmet"
+              ],
+              "nbt": "{hlw:{isBlock:0b}}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "equip"
+    ]
+  ],
+  "rewards": {
+    "function": "hlw:player/helmet/helmet_to_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"entity.scarecrow.crow": {
+		"sounds": [
+		{"name":"hlw:entity/scarecrow/crow/crow1","pitch": 1.05},{"name":"hlw:entity/scarecrow/crow/crow1"},{"name":"hlw:entity/scarecrow/crow/crow1","pitch": 1.12},{"name":"hlw:entity/scarecrow/crow/crow2"},{"name":"hlw:entity/scarecrow/crow/crow3"},{"name":"hlw:entity/scarecrow/crow/crow3","pitch": 0.95},{"name": "hlw:entity/scarecrow/crow/crow4"}
+		]
+	}
+}

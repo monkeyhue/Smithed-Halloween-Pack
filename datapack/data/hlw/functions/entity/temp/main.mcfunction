@@ -1,0 +1,1 @@
+execute if entity @s[tag=hlw.t.spawner] run function hlw:entity/temp/spawner/default
