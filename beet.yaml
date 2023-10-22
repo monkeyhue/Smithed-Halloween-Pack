@@ -1,0 +1,23 @@
+name: Smithed Halloween Pack
+version: '0.1.0'
+author: Monkeyhue, Jachro, TheNuclearNexus
+description: Content for the Smithed Halloween Happenings event
+minecraft: '1.20'
+
+pipeline:
+  - decoration_generator.generate
+
+require:
+  - decoration_generator.resources
+
+data_pack:
+  name: Halloween-Pack
+  load:
+    - datapack
+
+resource_pack:
+  name: Halloween-Pack-RP
+  load:
+    - resourcepack
+
+output: '__dist__'
