@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/cobblestone",
+	"overrides": [
+		{"predicate": {"custom_model_data": 6532001}, "model": "hlw:item/gravestone"},
+		{"predicate": {"custom_model_data": 6532002}, "model": "hlw:item/scary_jacko"},
+		{"predicate": {"custom_model_data": 6532003}, "model": "hlw:item/silly_jacko"},
+		{"predicate": {"custom_model_data": 6532004}, "model": "hlw:item/spooky_jacko"},
+		{"predicate": {"custom_model_data": 6532005}, "model": "hlw:item/zombie_plushie"}
+	]
+}

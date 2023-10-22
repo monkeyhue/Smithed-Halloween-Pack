@@ -1,0 +1,8 @@
+{
+    "id": "hlw:scary_jacko",
+    "item": "minecraft:cobblestone",
+    "cmd": 6532002,
+    "transformation": {
+        "translation": [0, 0.625, 0]
+    }
+}

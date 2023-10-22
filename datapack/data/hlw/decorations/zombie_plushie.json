@@ -1,0 +1,8 @@
+{
+    "id": "hlw:zombie_plushie",
+    "item": "minecraft:cobblestone",
+    "cmd": 6532005,
+    "transformation": {
+        "translation": [0, 0.625, 0]
+    }
+}

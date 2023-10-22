@@ -27,5 +27,8 @@
   "item.hlw.blueprint.zombie_plushie": "Blueprint: Zombie Plushie",
   
   "desc.hlw.blueprint1": "Use in offhand with a",
-  "desc.hlw.blueprint2": "Decorinator to place!"
+  "desc.hlw.blueprint2": "Decorinator to place!",
+  
+  "death.attack.hlw.crow": "%s was picked apart by crows",
+  "death.attack.hlw.spook": "%s was scared to death by Spook"
 }
