@@ -32,7 +32,7 @@ jobs:
     #          Build libraries via beet
     #----------------------------------------------
     - name: Build via beet
-      run: poetry run beet -s "data_pack.zipped = true" -s "resource_pack.zipped = true"
+      run: beet -s "data_pack.zipped = true" -s "resource_pack.zipped = true"
 
     #----------------------------------------------
     #           Upload artifacts to GH
