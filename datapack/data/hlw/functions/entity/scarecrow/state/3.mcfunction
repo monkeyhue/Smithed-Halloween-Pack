@@ -21,7 +21,5 @@ execute if score @s monkeyhue.time2 matches 30 positioned ^ ^2.6 ^-0.2 run funct
 execute if score @s monkeyhue.time2 matches 38 positioned ^ ^2.6 ^-0.2 run function hlw:entity/scarecrow/event/crow
 execute if score @s monkeyhue.time2 matches 46 positioned ^ ^2.6 ^-0.2 run function hlw:entity/scarecrow/event/crow
 execute if score @s monkeyhue.time2 matches 54 positioned ^ ^2.6 ^-0.2 run function hlw:entity/scarecrow/event/crow
-execute if score @s monkeyhue.time2 matches 62 positioned ^ ^2.6 ^-0.2 run function hlw:entity/scarecrow/event/crow
 
-execute if entity @p[distance=..12,gamemode=!creative,gamemode=!spectator] if score @s monkeyhue.time2 matches 78.. run scoreboard players set @s monkeyhue.tempAI 1
-execute unless entity @p[distance=..12,gamemode=!creative,gamemode=!spectator] if score @s monkeyhue.time2 matches 78.. run scoreboard players set @s monkeyhue.entity.AIState 0
+execute if score @s monkeyhue.time2 matches 78.. run scoreboard players set @s monkeyhue.entity.AIState 0

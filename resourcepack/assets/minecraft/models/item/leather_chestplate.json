@@ -14,6 +14,8 @@
 		
 		{"predicate": {"custom_model_data": 6532003, "damage": 0}, "model": "hlw:item/entity/scarecrow/float"}, {"predicate": {"custom_model_data": 6532003, "damage": 0.0125}, "model": "hlw:item/entity/scarecrow/attack"},
 		
+		{"predicate": {"custom_model_data": 6532004, "damage": 0}, "model": "hlw:item/entity/witch_spook/float"}, {"predicate": {"custom_model_data": 6532004, "damage": 0.0125}, "model": "hlw:item/entity/witch_spook/attack"}, {"predicate": {"custom_model_data": 6532004, "damage": 0.025}, "model": "hlw:item/entity/witch_spook/hurt"}, {"predicate": {"custom_model_data": 6532004, "damage": 0.0375}, "model": "hlw:item/entity/witch_spook/teleport_in"}, {"predicate": {"custom_model_data": 6532004, "damage": 0.05}, "model": "hlw:item/entity/witch_spook/teleport_out"},
+		
 		{"predicate": {"custom_model_data": 6532101}, "model": "hlw:item/frank_chestplate"},
 		{"predicate": {"custom_model_data": 6532102}, "model": "hlw:item/mummy_chestplate"},
 		{"predicate": {"custom_model_data": 6532103}, "model": "hlw:item/bee_chestplate"},

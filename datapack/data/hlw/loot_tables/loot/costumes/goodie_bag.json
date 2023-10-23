@@ -5,16 +5,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-		  "weight": 3,
-          "name": "hlw:item/witch_hat"
-        },
-        {
-          "type": "minecraft:loot_table",
-		  "weight": 6,
-          "name": "hlw:item/happy_mask"
-        },
-        {
-          "type": "minecraft:loot_table",
 		  "weight": 6,
           "name": "hlw:loot/costumes/frankenstein"
         },

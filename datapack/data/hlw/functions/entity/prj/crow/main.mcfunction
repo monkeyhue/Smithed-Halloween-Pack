@@ -1,6 +1,6 @@
 execute on passengers on passengers run function hlw:entity/prj/crow/hitbox
 
-execute positioned ~ ~0.6 ~ facing entity @p[gamemode=!creative,gamemode=!spectator] eyes positioned ~ ~-0.6 ~ run tp @s ^ ^ ^0.5 ~ ~
+execute positioned ~ ~0.6 ~ facing entity @p[gamemode=!creative,gamemode=!spectator] eyes positioned ~ ~-0.6 ~ run tp @s ^ ^ ^0.425 ~ ~
 execute rotated as @s on passengers run tp @s ~ ~ ~ ~ ~
 
 execute unless block ~ ~0.5 ~ #hlw:unsolid run function hlw:entity/prj/crow/hit

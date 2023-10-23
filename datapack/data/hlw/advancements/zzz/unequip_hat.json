@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "unequip": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:structure_block"
+            ],
+            "nbt": "{hlw:{isBlock:1b}}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "unequip"
+    ]
+  ],
+  "rewards": {
+    "function": "hlw:player/helmet/unequip"
+  }
+}

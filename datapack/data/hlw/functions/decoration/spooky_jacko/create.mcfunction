@@ -1,1 +1,1 @@
-execute summon item_display run function hlw:decoration/spooky_jacko/create/set_data
+execute align xyz summon item_display run function hlw:decoration/spooky_jacko/create/set_data

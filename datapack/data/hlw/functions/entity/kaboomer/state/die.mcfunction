@@ -7,7 +7,7 @@
 particle minecraft:poof ~ ~0.3 ~ 0.2 0.3 0.2 0.05 30 force
 
 #// Natural
-loot spawn ~ ~0.3 ~ loot hlw:entity/generic
+loot spawn ~ ~0.3 ~ loot hlw:entity/kaboomer
 
 #// Kill
 summon experience_orb ~ ~0.2 ~ {Value:10}

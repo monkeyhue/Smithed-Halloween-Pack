@@ -1,0 +1,6 @@
+{
+	"parent": "hlw:item/entity/witch_spook/256",
+	"textures": {
+		"0": "hlw:item/entity/witch_spook/hurt"
+	}
+}

@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 6532002}, "model": "hlw:item/prj/kaboomer"},
-		{"predicate": {"custom_model_data": 6532003}, "model": "hlw:item/prj/witch_spell"},
+		{"predicate": {"custom_model_data": 6532003}, "model": "hlw:item/prj/spook_spell"},
 		{"predicate": {"custom_model_data": 6532004}, "model": "hlw:item/prj/crow"}
 	]
 }

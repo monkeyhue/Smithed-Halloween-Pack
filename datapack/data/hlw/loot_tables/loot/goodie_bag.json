@@ -45,17 +45,17 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-		  "weight": 40,
+		  "weight": 50,
           "name": "hlw:loot/costumes/goodie_bag"
         },
         {
           "type": "minecraft:loot_table",
-		  "weight": 54,
+		  "weight": 45,
           "name": "hlw:loot/decorations/goodie_bag"
         },
         {
           "type": "minecraft:loot_table",
-		  "weight": 6,
+		  "weight": 5,
           "name": "hlw:loot/decorations/goodie_bag_rare"
         }
       ]
