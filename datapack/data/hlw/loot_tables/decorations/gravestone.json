@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"translate\":\"item.hlw.blueprint.gravestone\",\"color\":\"yellow\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"translate\":\"desc.hlw.blueprint1\",\"color\":\"gray\",\"italic\":false}','{\"translate\":\"desc.hlw.blueprint2\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \"}','[{\"text\":\"\\\\ua000 \",\"font\":\"hlw:tooltip\",\"color\":\"white\",\"italic\":false},{\"translate\":\"hlw.name\",\"font\":\"minecraft:default\",\"color\":\"#FF9E3D\",\"italic\":true}]']},CustomModelData:6532003,hlw:{blueprint:1b},smithed:{id:\"decorinator:blueprint\"},decoration:{id:\"hlw:gravestone\"}}"
+              "tag": "{display:{Name:'{\"translate\":\"item.hlw.blueprint.gravestone\",\"color\":\"yellow\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"translate\":\"desc.hlw.blueprint1\",\"color\":\"gray\",\"italic\":false}','{\"translate\":\"desc.hlw.blueprint2\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \"}','[{\"text\":\"\\\\ua000 \",\"font\":\"hlw:tooltip\",\"color\":\"white\",\"italic\":false},{\"translate\":\"hlw.name\",\"font\":\"minecraft:default\",\"color\":\"#FF9E3D\",\"italic\":true}]']},CustomModelData:6532003,hlw:{blueprint:1b},smithed:{id:\"decorinator:blueprint\"},decoration:{id:\"hlw:gravestone\", cloneable: 1}}"
             }
           ]
         }
